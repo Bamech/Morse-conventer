@@ -1,0 +1,5 @@
+C:\Users\Dom\Desktop\C# Projekty\Morse conventer\Morse converter\Morse converter\bin\Debug\Morse converter.exe.config
+C:\Users\Dom\Desktop\C# Projekty\Morse conventer\Morse converter\Morse converter\bin\Debug\Morse converter.exe
+C:\Users\Dom\Desktop\C# Projekty\Morse conventer\Morse converter\Morse converter\bin\Debug\Morse converter.pdb
+C:\Users\Dom\Desktop\C# Projekty\Morse conventer\Morse converter\Morse converter\obj\Debug\Morse converter.exe
+C:\Users\Dom\Desktop\C# Projekty\Morse conventer\Morse converter\Morse converter\obj\Debug\Morse converter.pdb
